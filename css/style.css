@@ -132,7 +132,7 @@ section .display img {
     position: absolute;
     bottom: -1em;
     right: -1em;
-    height: 35em;
+    height: 30em;
     transform: rotate(-20deg);
 }
 
