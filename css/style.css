@@ -1,7 +1,7 @@
 .wrapper {
     position: relative;
     overflow: hidden;
-    background-image: linear-gradient(#ed5f47, #fe2d3b);
+    background-image: linear-gradient(#fd8b3e, #ed5f47);
     height: 100vh;
     
 }
@@ -132,8 +132,7 @@ section .display h2 {
 section .display img {
     position: absolute;
     bottom: -1em;
-    right: -1em;
-    height: 30em;
+    height: 35em;
     transform: rotate(-20deg);
 }
 
