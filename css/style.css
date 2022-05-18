@@ -123,8 +123,8 @@ section .display h2 {
     float: right;
     font-size: 2em;
     font-family: 'Montserrat', sans-serif;
-    position: absolute;
-    bottom: 2.1em;
+    position: relative;
+    bottom: .3em;
     right: 1.5em;
 }
 
