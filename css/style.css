@@ -97,6 +97,7 @@ section .display {
 
 section .display h1 {
     text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
     font-size: 8.2em;
     font-weight: 800;
     letter-spacing: 6px;
