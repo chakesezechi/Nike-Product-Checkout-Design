@@ -3,7 +3,7 @@
     overflow: hidden;
     background-image: linear-gradient(#fd8b3e, #ed5f47);
     height: 100vh;
-    
+
 }
 
 /***** HEADER SECTION ******/
@@ -250,7 +250,7 @@ section .details .product-size-select select {
 }
 
 section .details .product-size-select select option {
-    color: #fe2d3b;
+    color: #ed5f47;
     font-weight: 500;
 }
 
